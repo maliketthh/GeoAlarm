@@ -113,11 +113,14 @@ MapKitFactory.setApiKey("твой_ключ_сюда")
 Вариант 3: Нажать 3 раза на красную кнопку "Экстренное отключение"
 
 Скриншоты
-Главный экран	<img width="295" height="606" alt="image" src="https://github.com/user-attachments/assets/3be6e58e-929c-403c-80a8-5750841a43de" />
+Главный экран
+<img width="295" height="606" alt="image" src="https://github.com/user-attachments/assets/3be6e58e-929c-403c-80a8-5750841a43de" />
 
-Выбор места на карте	<img width="290" height="606" alt="image" src="https://github.com/user-attachments/assets/bb6b3f1c-4312-4e35-bdd8-513eb1e96d48" />
+Выбор места на карте
+<img width="290" height="606" alt="image" src="https://github.com/user-attachments/assets/bb6b3f1c-4312-4e35-bdd8-513eb1e96d48" />
 
-Экран будильника <img width="255" height="534" alt="image" src="https://github.com/user-attachments/assets/7a5ad24e-fd36-4383-84e5-d05b92ba634b" />
+Экран будильника 
+<img width="255" height="534" alt="image" src="https://github.com/user-attachments/assets/7a5ad24e-fd36-4383-84e5-d05b92ba634b" />
 Примеры работы
 Действие	Результат
 Выбрал место "Уфа, Кремль", время 10:00	Будильник установлен
