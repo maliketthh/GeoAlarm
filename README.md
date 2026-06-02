@@ -113,14 +113,17 @@ MapKitFactory.setApiKey("твой_ключ_сюда")
 Вариант 3: Нажать 3 раза на красную кнопку "Экстренное отключение"
 
 Скриншоты
-Главный экран
+
 <img width="295" height="606" alt="image" src="https://github.com/user-attachments/assets/3be6e58e-929c-403c-80a8-5750841a43de" />
+Главный экран
 
-Выбор места на карте
 <img width="290" height="606" alt="image" src="https://github.com/user-attachments/assets/bb6b3f1c-4312-4e35-bdd8-513eb1e96d48" />
+Выбор места на карте
 
-Экран будильника 
 <img width="255" height="534" alt="image" src="https://github.com/user-attachments/assets/7a5ad24e-fd36-4383-84e5-d05b92ba634b" />
+Экран будильника 
+
+
 Примеры работы
 Действие	Результат
 Выбрал место "Уфа, Кремль", время 10:00	Будильник установлен
@@ -145,21 +148,7 @@ MapKitFactory.setApiKey("твой_ключ_сюда")
 
 Работа без интернета	✅ GPS работает
 
-GeoAlarm/
-├── app/
-│   ├── src/main/java/com/example/geoalarm/
-│   │   ├── MainActivity.kt           # Главный экран
-│   │   ├── ChooseLocationActivity.kt # Выбор места на карте
-│   │   ├── GeoAlarmActivity.kt       # GPS-трекинг
-│   │   ├── AlarmReceiver.kt          # Приёмник будильника
-│   │   ├── AlarmSoundService.kt      # Звук и вибрация
-│   │   ├── AlarmData.kt              # Данные будильника
-│   │   ├── PermissionsHelper.kt      # Запрос разрешений
-│   │   └── MyApplication.kt          # Инициализация
-│   ├── src/main/res/                 # Ресурсы (layout, drawable)
-│   └── build.gradle.kts              # Зависимости
-├── .gitignore
-└── README.md
+
 Ссылки
 https://xn--__google_docs__pdf-qwob5pa2axs0b0ha40a/
 https://yandex.com/maps-api/docs/mapkit
