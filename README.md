@@ -151,7 +151,11 @@ MapKitFactory.setApiKey("твой_ключ_сюда")
 
 Ссылки
 https://xn--__google_docs__pdf-qwob5pa2axs0b0ha40a/
+
+
 https://yandex.com/maps-api/docs/mapkit
+
+
 https://developer.android.com/training/location
 
 Авторы
