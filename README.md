@@ -150,6 +150,7 @@ MapKitFactory.setApiKey("твой_ключ_сюда")
 
 
 Ссылки
+
 https://xn--__google_docs__pdf-qwob5pa2axs0b0ha40a/
 
 
@@ -162,3 +163,5 @@ https://developer.android.com/training/location
 Хабиров Э.И., Валишин М.М. 
 Группа
 ИБ-206Б
+Дата выполнения
+май 2026 года
